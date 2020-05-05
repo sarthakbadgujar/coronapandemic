@@ -297,7 +297,7 @@
 					</div>
 
 					<div class="col-lg-8 col-md-8 col-12">
-						<p>3.Cover your nose with the bend of elbow or tissue.</p>
+						<p>3. Cover your nose with the bend of elbow or tissue.</p>
 					</div>
 				</div>
 			</div>
